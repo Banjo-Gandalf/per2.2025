@@ -1,4 +1,1 @@
-{'people':
-  [{'name':'scab','seat':0,'fun fact':'likes sailing'}
-{'name':'Samari','seat':1,'fun fact':'likes Voltron'}]
-}
+{'people': {'name':'scab','seat':0,'fun fact':'likes sailing'}}
