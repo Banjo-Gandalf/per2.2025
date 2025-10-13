@@ -1,1 +1,7 @@
-{'people':{name':'scab','seat':0,'fun fact':'likes sailing'}{name':'Samari','seat':1,'fun fact':'likes Voltron'}}
+{'people':
+  {'name':'scab','seat':0,'fun fact':'likes sailing'}
+{'name':'Samari','seat':1,'fun fact':'likes Voltron'}
+{'name':'Moca','seat':2,'fun fact':'likes coding'}
+{'name':'Billy','seat':13, 'fun fact':'like Secret Coders'}
+
+}
